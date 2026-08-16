@@ -1,7 +1,7 @@
 <div align="center">
 
 <p align="left">
-  <img src="https://c.tenor.com/25ykirk3P4YAAAAd/tenor.gif" width="30%" align="right" style="margin-left: 20px; border-radius: 10px;">
+  <img src="https://i.pinimg.com/originals/e4/da/8f/e4da8fcec889c6426bed3677b1f5c07d.gif" width="30%" align="right" style="margin-left: 20px; border-radius: 10px;">
   <br>
   <h4>Hello there 👋</h4>
   <h3>A Future DevOps & Platform Engineer</h3>
@@ -9,14 +9,13 @@
   <br><br>
 </p>
 
-
 <blockquote align="left">
 
-  🏗️ <b>Focus:</b> Infrastructure as Code & CI/CD <br>
-  ☁️ <b>Cloud:</b> AWS • Docker • Kubernetes <br>
-  🐍 <b>Scripting:</b> Python • Bash • SQL <br> 
-  🏍️ <b>Vibe:</b> S1000RR Enthusiast <br>
-  🌱 <b>Learning:</b> Terraform & Cloud Automation
+🏗️ <b>Focus:</b> Infrastructure as Code & CI/CD <br>
+☁️ <b>Cloud:</b> AWS • Docker • Kubernetes <br>
+🐍 <b>Scripting:</b> Python • Bash • SQL <br>
+🏍️ <b>Vibe:</b> S1000RR Enthusiast <br>
+🌱 <b>Learning:</b> Terraform & Cloud Automation
 
 </blockquote>
 
