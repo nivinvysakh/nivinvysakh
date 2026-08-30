@@ -29,7 +29,7 @@
 
 ### 🚀 Automation Pipeline (Recent Activity)
 
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=nivinvysakh&theme=dracula&area=true&hide_border=true&bg_color=00000000)
+![My GitHub Game](game.gif)
 
 <p align="left"> 
   <i>🏍️🏁 (⌐■_■) </i>
