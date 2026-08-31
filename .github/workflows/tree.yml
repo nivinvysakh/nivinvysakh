@@ -1,0 +1,19 @@
+name: Generate Commit Tree
+
+on:
+  schedule:
+    - cron: '0 0 * * *' # Runs daily at midnight
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  update-tree:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: nivinvysakh/gh-tree@main
+        with:
+          github-token: ${{ secrets.GITHUB_TOKEN }}

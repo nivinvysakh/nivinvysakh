@@ -27,9 +27,15 @@
 
 <br>
 
-### 🚀 Automation Pipeline (Recent Activity)
+### 🌴 Github Tree 
 
-![My GitHub Game](game.gif)
+<div align="center">
+
+<!-- commit-tree-start -->
+![tree](tree.gif)
+<!-- commit-tree-end -->
+
+</div>
 
 <p align="left"> 
   <i>🏍️🏁 (⌐■_■) </i>
