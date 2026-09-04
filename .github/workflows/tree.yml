@@ -17,3 +17,16 @@ jobs:
       - uses: nivinvysakh/gh-tree@main
         with:
           github-token: ${{ secrets.GITHUB_TOKEN }}
+          # Tree biome variety: oak | sakura | spruce | birch
+          tree-type: "sakura"
+          # Live weather from Open-Meteo for your city (auto-detects sun, night, rain, snow, clouds)
+          city: "Perth"
+          # Or manually force a weather condition: auto | sunny | night | rain | snow | cloudy
+          weather: "auto"
+          # Recency window in days for flowers (open PRs), red apples (merged PRs), and golden apples
+          pr-days: "14"
+          # Total days of history to fetch for commit canopy leaves (~14 weekly tiers)
+          days: "140"
+          # Whether to show the wooden streak signpost and animated bee
+          show-signpost: "true"
+          show-bee: "true"
