@@ -18,7 +18,7 @@ jobs:
         with:
           github-token: ${{ secrets.GITHUB_TOKEN }}
           # Tree biome variety: oak | sakura | spruce | birch
-          tree-type: "sakura"
+          tree-type: "warped"
           # Live weather from Open-Meteo for your city (auto-detects sun, night, rain, snow, clouds)
           city: "Perth"
           # Or manually force a weather condition: auto | sunny | night | rain | snow | cloudy
