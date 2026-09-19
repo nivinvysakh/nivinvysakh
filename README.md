@@ -27,7 +27,11 @@
 
 <br>
 
-### 🌴 Github Tree 
+### 🌴 Github Tree
+
+<p align="center">
+  Check out my <code>GH-Tree</code> <a href="https://github.com/nivinvysakh/gh-tree">repository</a> to setup your own GitHub tree like mine!
+</p>
 
 <br>
 
