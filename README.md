@@ -32,7 +32,6 @@
 <div align="center">
 
 <!-- commit-tree-start -->
-![tree](tree.gif?v=1789785519257)
 <!-- commit-tree-end -->
 
 </div>
